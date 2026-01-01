@@ -54,6 +54,7 @@ El objetivo es simular un flujo real de procesamiento de datos, desde la ingesta
 
 ## 📂 Estructura del repositorio
 
+```text
 📁 project-root
 │
 ├── 📁 notebooks
@@ -67,7 +68,7 @@ El objetivo es simular un flujo real de procesamiento de datos, desde la ingesta
 ├── 📁 jobs
 │ └── etl_ventas_job.json
 │
-└── README.md
+└── [README.md]S
 
 
 📌 **Nota:**  
